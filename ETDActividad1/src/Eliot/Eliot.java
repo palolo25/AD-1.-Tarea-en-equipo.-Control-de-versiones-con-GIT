@@ -7,6 +7,6 @@ public class Eliot {
 	
 	public void mostrarNombre() {
 		
-		System.out.println("Mi nombre es "+nombre);
+		System.out.println("Hola, soy "+nombre);
 	}
 }
