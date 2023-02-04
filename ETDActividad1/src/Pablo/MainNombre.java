@@ -6,7 +6,7 @@ public class MainNombre {
 		
 		Pablo n1 = new Pablo();
 		
-		n1.mostrarNombre();
+		n1.mostrarInfo();
 
 	}
 
