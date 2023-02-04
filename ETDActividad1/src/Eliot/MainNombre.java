@@ -7,7 +7,7 @@ public class MainNombre {
 		
 		Eliot n1 = new Eliot();
 		
-		n1.mostrarNombre();
+		n1.mostrarInfo();
 
 	}
 
