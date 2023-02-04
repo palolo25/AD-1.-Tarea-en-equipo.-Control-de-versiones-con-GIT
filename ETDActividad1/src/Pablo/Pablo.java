@@ -8,6 +8,6 @@ public class Pablo {
 	
 	public void mostrarNombre() {
 		
-		System.out.println("Mi nombre es "+nombre);
+		System.out.println("Hola, soy "+nombre);
 	}
 }
