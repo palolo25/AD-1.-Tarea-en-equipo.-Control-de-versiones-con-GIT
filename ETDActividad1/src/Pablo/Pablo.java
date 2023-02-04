@@ -1,6 +1,6 @@
 package Pablo;
 
-public class Nombre {
+public class Pablo {
 
 	String nombre = "Pablo";
 	

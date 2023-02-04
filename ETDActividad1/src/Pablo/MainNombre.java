@@ -4,7 +4,7 @@ public class MainNombre {
 
 	public static void main(String[] args) {
 		
-		Nombre n1 = new Nombre();
+		Pablo n1 = new Pablo();
 		
 		n1.mostrarNombre();
 
